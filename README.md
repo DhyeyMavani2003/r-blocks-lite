@@ -1,4 +1,4 @@
-**R-blocks Project**
+**R-blocks-Lite Project**
 
 Advisor: *Professor Shu-Min Liao*
 
